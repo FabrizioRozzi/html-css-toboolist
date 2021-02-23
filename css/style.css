@@ -16,3 +16,29 @@ main{
   padding: 5px 5px;
   font-size: 11px;
 }
+.finestra{
+  font-size: 20px;
+}
+
+.contenitore{
+  margin-top: 80px;
+}
+.spunta{
+ 
+  display: inline-block;
+  border-radius: 25px;
+  border: solid black;
+
+  width: 20px;
+  height: 20px;
+}
+.testo{
+  display: inline-block;
+  font-size: 20px;
+}
+.terzaParte{
+  display: inline-block;
+  border: solid black;
+  border-radius: 10%;
+ 
+}
