@@ -1,0 +1,18 @@
+main{
+  margin-top: 50px;
+  margin-left: 200px;
+}
+.laziale{
+  background-color:#47ADF1 ;
+  color: white;
+  border-radius: 10%;
+  padding: 5px 5px;
+  font-size: 11px;
+}
+.deselezionato{
+  background-color: white;
+  color: #C7CCD1;
+  border-radius: 10%;
+  padding: 5px 5px;
+  font-size: 11px;
+}
